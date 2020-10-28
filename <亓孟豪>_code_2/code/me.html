@@ -1,8 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style> 
+        .z{
+            width:1500px;
+            height:100px;
+            background:rgb(255, 241, 224);
+            animation:f 5s;
+            -webkit-animation:f 5s;
+        }
+        ​
+        @keyframes f
+        {
+            from {background:rgb(255, 241, 224);}
+            to {background:yellow;}
+        }
+        ​
+        @-webkit-keyframes f
+        {
+            from {background:rgb(255, 241, 224);}
+            to {background:yellow;}
+        }
+        </style>
 <meta charset="utf-8">
-
 <link rel="stylesheet" href="./css/me.css"/>
 <title>个人介绍</title>
 </head>
@@ -80,7 +100,7 @@
     </div>
 <!--分隔-->
     <div id="title">
-        <strong>My hobies</strong>
+        <strong>My hobbies</strong>
     </div>
 <!--爱好标题-->
     <div id="blank3">
@@ -135,7 +155,17 @@
                 <h1>Rubber Stamp</h1>
             </div>
         </div>
+
+        <div id="end">
+        
+        </div>
+
     </div>
 <!--爱好-->
+    <div id="x">
+
+    </div>
+
+    <div class="z"></div>
 </body>
 </html>
