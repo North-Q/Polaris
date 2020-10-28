@@ -204,3 +204,21 @@
     top: 30px;
     left: 530px;
 }
+#end{
+
+    width: 1500px;
+    height: 1500px;
+    background:linear-gradient(to bottom, rgb(255, 241, 224),rgb(250, 233, 210), rgb(255, 241, 224));
+    display:inline-block;
+}
+#x{
+    width:1500px;
+    height:100px;
+    background:rgb(250, 233, 210);
+    transition:width 5s;
+    -webkit-transition:width 5s;
+}
+#x:hover
+{
+    width:300px;
+}
