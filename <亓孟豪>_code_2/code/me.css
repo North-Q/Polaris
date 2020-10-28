@@ -1,0 +1,206 @@
+#h{
+    background-color: rgb(250, 233, 210);
+    width:1500px;
+    height: 150px;
+}
+.h1{
+    font-size: 50px;
+    color: rgb(7, 21, 59);
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italics;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+}
+.h2{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.h3{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+#blank1{
+    width: 1500px;
+    height: 50px;
+}
+#b{
+    background-color: rgb(255, 241, 224);
+    width: 1500px;
+    height: 700px;
+    border-style: double;
+    border-color: rgb(243, 218, 184);
+    border-width: 5px;
+    border-radius: 5%;
+}
+.b1{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}
+.b2{
+    position: absolute;
+    top: 430px;
+    left: 230px;
+}
+.b3{
+    position: absolute;
+    top: 380px;
+    left: 500px;
+}
+.b4
+{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    position: absolute;
+    top: 355px;
+    left: 500px;
+    white-space:pre;
+}
+.b5{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100px;
+    position: absolute;
+    top: 355px;
+    left: 825px;
+    white-space: pre;
+}
+.b6{
+    position: absolute;
+    top: 560px;
+    left:750px;
+}
+.b7{
+    font-size: larger;
+    position: absolute;
+    top: 605px;
+    left: 670px;
+}
+.b8{
+    font-size: larger;
+    position: absolute;
+    top: 605px;
+    left: 1055px;
+}
+.b9{
+    font-size: larger;
+    position: absolute;
+    top: 685px;
+    left: 740px;
+}
+.b10{
+    font-size: larger;
+    position: absolute;
+    top: 685px;
+    left: 990px;
+}
+#blank2{
+    width: 1500px;
+    height: 50px;
+}
+#title{
+    background-color: #ff475f;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    width: 200px;
+    height: 50px;
+    border-style: double;
+    border-color: rgb(243, 218, 184);
+    border-width: 5px;
+    border-radius: 5%;
+    text-align: center;
+    position: absolute;
+    left: 650px;
+}
+#blank3{
+    width: 1500px;
+    height: 30px;
+}
+.d1{
+    position: absolute;
+    top: 1060px;
+    left: 100px;
+    width: 1300px;
+    height: 600px;
+    border-style: double;
+    border-color: rgb(243, 218, 184);
+    border-width: 5px;
+    border-radius: 5%;
+    background-color: rgb(255, 241, 224);
+}
+.sf1{
+    position: absolute;
+    top: 150px;
+    left:100px;
+}
+.sf2{
+    position: absolute;
+    top: 150px;
+    left:500px;
+}
+.sf3{
+    position: absolute;
+    top: 150px;
+    left:900px;
+}
+.s{
+    position: absolute;
+    top: 40px;
+    left: 495px;
+}
+.s1{
+    position: absolute;
+    top: 470px;
+    left: 160px;
+    font-size: larger;
+}
+.s2{
+    position: absolute;
+    top: 470px;
+    left: 605px;
+    font-size: larger;
+}
+.s3{
+    position: absolute;
+    top: 470px;
+    left: 995px;
+    font-size: larger;
+}
+.d2{
+    position: absolute;
+    top: 1700px;
+    left: 100px;
+    width: 1300px;
+    height: 600px;
+    border-style: double;
+    border-color: rgb(243, 218, 184);
+    border-width: 5px;
+    border-radius: 5%;
+    background-color: rgb(255, 241, 224);
+}
+.xp1{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.xp2{
+    position: absolute;
+    top: 150px;
+    left: 550px;
+}
+.xp3{
+    position: absolute;
+    top: 150px;
+    left: 950px;
+}
+.x{
+    position: absolute;
+    top: 30px;
+    left: 530px;
+}
